@@ -1,0 +1,72 @@
+#score{
+    position: absolute;
+    top: 60px;
+    left: 105px;
+}
+#place{
+    position: absolute;
+    top: 130px;
+    left: 115px;
+}
+#flag{
+    position: absolute;
+    top: 198px;
+    left: 114px; 
+}
+#team{
+     position: absolute;
+    top: 250px;
+    left: 112px;
+}
+#player{
+     position: absolute;
+    top: 78px;
+    right: 60px;
+}
+
+#section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+     background-image: url('../../../public/images/fifacardbg.png');
+  background-size: cover;
+  background-position: center;
+  width: 450px;
+  height: 600px;
+  position: relative;
+}
+
+
+#prop1 {
+    position: absolute;
+    top: 365px;
+    left: 120px;
+}
+
+#name {
+    position: absolute;
+    top: 275px;
+    left: 130px;
+}
+#prop2 {
+    position: absolute;
+    top: 392px;
+    left: 120px;
+}#prop3 {
+    position: absolute;
+    top: 420px;
+    left: 120px;
+}#prop4 {
+    position: absolute;
+    top: 365px;
+    right: 120px;
+}#prop5 {
+    position: absolute;
+    top: 392px;
+    right: 120px;
+}#prop6 {
+    position: absolute;
+    top: 420px;
+    right: 120px;
+}

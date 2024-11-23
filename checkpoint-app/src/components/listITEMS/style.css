@@ -1,0 +1,10 @@
+#secitems{
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+#secitems{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
